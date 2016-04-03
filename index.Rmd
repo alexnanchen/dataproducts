@@ -23,25 +23,21 @@ knit        : slidify::knit2slides
 
 --- .class 
 
-## Motivations
+## Background
 
-1. Data exploration
-2. Data visualization
-3. Reproducibility
+1. Data exploration trough dynamic display
+2. Data visualization with html layouts
+3. Reproducibility with web applications
 
 <img style="margin-left:100px;" src="images/data-science-small.jpg">
 
 ---
 
-## Constraints
+## Motivations
 
-1. Public sharing
-   - RPubs
-   - Git hub
-   - shinyapps.io
-   - Own web site
-2. Easy updates
-3. Multiple data views 
+1. Population fertility understanding
+2. Population fertility factors investigation
+3. Negative and positive factors that influence population fertility
 
 ---
 
@@ -61,7 +57,7 @@ head(swiss[1:4], n=5)
 
 ### Swiss data web app
 
-1. One screen web application
+1. One screen web application to investigate population fertility factors
 2. Functionalities
    - Variable exploration
    - Linear fitting exploration
