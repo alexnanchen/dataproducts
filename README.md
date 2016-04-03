@@ -6,6 +6,12 @@ The shiny web application is deployed at the following address:
 
 https://alexnanchen.shinyapps.io/swissdatawebapp/
 
-Please follows provided instruction.
+Please follow provided instructions in the welcome page to use it.
 
-The implementation files are server.R and ui.R.
+The implementation files of the web application are 
+**server.R** and **ui.R**.
+
+The associated pitch presentation is in the file index.html and can
+be viewed at the following URL:
+
+https://alexnanchen.github.io/developingdataproducts
